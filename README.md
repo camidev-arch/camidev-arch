@@ -157,10 +157,8 @@ Plataforma cripto colombiana: desarrollo full stack y sitios institucionales.
 
 | Proyecto | Stack | Descripción |
 |----------|-------|-------------|
-| 🏖️ **LIMR Caribbean** | Webflow · CMS · Custom JS | E-commerce + turismo, mobile-first, interacciones avanzadas |
 | 🏀 **Valencia Basket Store** | Shopify Plus · Liquid · SEO | Tienda oficial del club asociado al Valencia CF, España |
 | 💳 **CrossPay Platform** | React · Node.js · Material-UI | SaaS fintech de recaudo de pagos, arquitectura de cero |
-| 🦷 **Clínica Dental Núñez-Cobos** | WordPress · SEO · GEO | Estrategia SEO local + IA generativa para Madrid |
 | 🌿 **Mundo Jadake** | Shopify · Liquid · UX | Trust badges, subscription popup, breadcrumbs, Spotlight theme |
 | 🔗 **Confía Control** | React · Elementor · HTML | Megamenu, tabs interactivos, glassmorphism CTAs, statistics |
 
