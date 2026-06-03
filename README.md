@@ -1,165 +1,222 @@
 <div align="center">
 
-# 👋 Hola! Soy Juan Camilo Niño
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=200&section=header&text=Juan%20Camilo%20Niño&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Shopify%20Engineer&descAlignY=58&descSize=18&descColor=a0aec0"/>
 
-### 💻 Desarrollador Web Full Stack | MERN | Shopify | WordPress
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=I+build+things+that+convert.;React+%2F+Next.js+%2F+Shopify+Plus;5%2B+years+shipping+production+code.;From+Bucaramanga+to+the+world+%F0%9F%8C%8E" alt="Typing SVG" /></a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jnkreations.xyz-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jnkreations.xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+<br/>
 
-</div>
+<!-- BADGES ROW 1 -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juancamilonino)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jnkreationsdev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://limrcaribbean.com)
+[![Location](https://img.shields.io/badge/Bucaramanga%2C%20Colombia-FFCD00?style=for-the-badge&logo=googlemaps&logoColor=black)](#)
 
----
+<br/>
 
-## 🚀 Sobre Mí
-
-Soy un desarrollador web apasionado por crear experiencias digitales excepcionales. Me especializo en el stack MERN y tengo amplia experiencia construyendo soluciones de e-commerce con Shopify y WordPress.
-
-```javascript
-const juanCamilo = {
-    location: "Colombia 🇨🇴",
-    role: "Full Stack Developer",
-    code: ["JavaScript", "TypeScript", "HTML", "CSS", "PHP"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue"],
-            css: ["Tailwind", "Bootstrap", "Sass"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            databases: ["MongoDB", "MySQL", "PostgreSQL"]
-        },
-        cms: ["Shopify", "WordPress", "WooCommerce"],
-        tools: ["Git", "Docker", "Webpack", "Vite"]
-    },
-    currentFocus: "Building scalable e-commerce solutions"
-};
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+<!-- BADGES ROW 2 -->
+![Years of Experience](https://img.shields.io/badge/Experience-5%2B%20Years-6C63FF?style=flat-square)
+![Projects Shipped](https://img.shields.io/badge/Projects%20Shipped-30%2B-00d4aa?style=flat-square)
+![Timezone](https://img.shields.io/badge/Available-CET%20%2F%20EST%20%2F%20CST-ff6b6b?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-4CAF50?style=flat-square)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
-
-### Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-### Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-### E-Commerce & CMS
-<p align="center">
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
-</p>
-
-### Tools & DevOps
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
----
-
-## 🌟 Proyectos Destacados
-
-<div align="center">
-
-| 🔗 Website | 📝 Descripción | 🛠️ Stack |
-|------------|---------------|----------|
-| [**jnkreations.xyz**](https://jnkreations.xyz) | Portfolio Personal | React, Node.js |
-| [**Herahealthsolutions.com**](https://Herahealthsolutions.com) | Soluciones de Salud | WordPress, WooCommerce |
-| [**kiiex.io**](https://kiiex.io) | Plataforma Exchange | MERN Stack |
-| [**beefreemedia.com**](https://beefreemedia.com) | Agencia Digital | Next.js, Shopify |
-| [**kybusm.com**](https://kybusm.com) | E-commerce | Shopify, React |
-| [**beefreemedia.xyz**](https://beefreemedia.xyz) | Media Platform | MERN Stack |
-| [**invirtiendoencripto.com**](https://invirtiendoencripto.com) | Educación Cripto | WordPress |
-| [**biiosmart.com**](https://biiosmart.com) | Smart Solutions | React, Express |
-| [**kii.global**](https://kii.global) | Global Platform | Next.js, MongoDB |
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-[![Juan Camilo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/TU_USUARIO)
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/TU_USUARIO)
-
-</div>
-
----
-
-## 💼 Experiencia
+## `> whoami`
 
 ```typescript
-interface Experience {
-    specialization: string[];
-    achievements: number;
-}
-
-const myExperience: Experience = {
-    specialization: [
-        "✨ E-commerce con Shopify & WooCommerce",
-        "🚀 Aplicaciones web con Stack MERN",
-        "🎨 Sitios WordPress personalizados",
-        "⚡ APIs RESTful con Node.js",
-        "📱 Aplicaciones responsive con React",
-        "🔧 Integración de pasarelas de pago",
-        "🌐 SEO y optimización de rendimiento"
-    ],
-    achievements: 9 // Proyectos publicados
+const juan = {
+  name:       "Juan Camilo Niño",
+  role:       ["Full Stack Developer", "UI/UX Designer", "Shopify Engineer"],
+  location:   "Bucaramanga, Colombia 🇨🇴",
+  languages:  ["Spanish (Native)", "English (Professional)"],
+  currently:  "Building @ CrossPay Solutions (Fintech SaaS)",
+  passion:    "Interfaces that feel alive. Code that scales.",
+  available:  true,
 };
+```
+
+> Soy un desarrollador full stack con más de 5 años construyendo productos web que no solo se ven bien — **convierten, escalan y se mantienen**. He trabajado desde plataformas de pago fintech hasta e-commerce de alto volumen en Shopify Plus, pasando por sitios de marketing en Webflow y aplicaciones React/Next.js para clientes en tres continentes.
+
+---
+
+## `> tech --stack`
+
+<div align="center">
+
+### 🧠 Frontend Core
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🛒 E-Commerce & CMS
+![Shopify](https://img.shields.io/badge/Shopify_Plus-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### ⚙️ Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+### 🎨 Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### ☁️ Infrastructure & Automation
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+</div>
+
+---
+
+## `> experience --highlights`
+
+<details>
+<summary><b>🏦 CrossPay Solutions — Full Stack Developer</b> &nbsp;<code>Aug 2025 – Present</code></summary>
+<br>
+
+Plataforma fintech SaaS de **recaudo de pagos**. Construida de cero.
+
+- Arquitectura completa del sistema desde análisis de requerimientos hasta producción
+- Frontend en **React.js + Material-UI** con flujos de pago multi-paso
+- Diseño de arquitectura de microservicios y definición de contratos de API
+- Stack: `React.js` `Node.js` `Material-UI` `REST APIs` `Docker`
+
+</details>
+
+<details>
+<summary><b>🛍️ Shopify Plus Developer — 3Dids (Valencia Basket / Valencia CF)</b> &nbsp;<code>Aug – Oct 2024</code></summary>
+<br>
+
+Desarrollo del sitio oficial de **e-commerce para Valencia Basket**, club asociado al Valencia CF (España).
+
+- Implementación completa en **Shopify Plus** con Liquid custom
+- Templates personalizados, metafields, metaobjects y secciones dinámicas
+- Optimización SEO técnica y performance
+- Stack: `Shopify Plus` `Liquid` `JavaScript` `CSS` `SEO`
+
+</details>
+
+<details>
+<summary><b>⚡ Front-End Developer — Triagons LLC</b> &nbsp;<code>Sep 2023 – Feb 2025</code></summary>
+<br>
+
+Agencia tech remota: marketing sites, apps y productos digitales para clientes USA.
+
+- Desarrollo de sitios en **Webflow con CMS, interacciones custom y animaciones**
+- Aplicaciones en **React.js, Next.js y React Native**
+- Pruebas e2e con **Playwright**
+- Portfolio reference: **[limrcaribbean.com](https://www.limrcaribbean.com)** — Webflow, CMS, mobile-first
+- Stack: `Webflow` `React.js` `Next.js` `React Native` `Playwright` `WordPress`
+
+</details>
+
+<details>
+<summary><b>🌐 Marketing Designer Developer — Marketfully LLC</b> &nbsp;<code>Aug 2025 – May 2026</code></summary>
+<br>
+
+Agencia de marketing digital: producción de assets y páginas de conversión.
+
+- Páginas de campaña en **Webflow y WordPress**
+- Componentes custom en HTML/CSS/JS integrados en Webflow
+- Producción gráfica en Photoshop y edición en Premiere
+- Stack: `Webflow` `WordPress` `HTML/CSS/JS` `Adobe Creative Suite`
+
+</details>
+
+<details>
+<summary><b>💎 Full Stack Developer — Kii Global S.A.S (Crypto)</b> &nbsp;<code>May 2022 – Sep 2023</code></summary>
+<br>
+
+Plataforma cripto colombiana: desarrollo full stack y sitios institucionales.
+
+- Dos sitios corporativos en **Webflow** (arquitectura, responsive, embeds custom)
+- Desarrollo con **React.js, Node.js, GraphQL/Apollo** y Shopify
+- SEO técnico y optimización de performance
+- Stack: `Webflow` `React.js` `Node.js` `GraphQL` `Shopify` `WordPress`
+
+</details>
+
+---
+
+## `> projects --featured`
+
+| Proyecto | Stack | Descripción |
+|----------|-------|-------------|
+| 🏖️ **LIMR Caribbean** | Webflow · CMS · Custom JS | E-commerce + turismo, mobile-first, interacciones avanzadas |
+| 🏀 **Valencia Basket Store** | Shopify Plus · Liquid · SEO | Tienda oficial del club asociado al Valencia CF, España |
+| 💳 **CrossPay Platform** | React · Node.js · Material-UI | SaaS fintech de recaudo de pagos, arquitectura de cero |
+| 🦷 **Clínica Dental Núñez-Cobos** | WordPress · SEO · GEO | Estrategia SEO local + IA generativa para Madrid |
+| 🌿 **Mundo Jadake** | Shopify · Liquid · UX | Trust badges, subscription popup, breadcrumbs, Spotlight theme |
+| 🔗 **Confía Control** | React · Elementor · HTML | Megamenu, tabs interactivos, glassmorphism CTAs, statistics |
+
+---
+
+## `> stats --github`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jnkreations&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnkreations&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jnkreations&theme=tokyonight&hide_border=true&background=0d1117)
+
+</div>
+
+---
+
+## `> skills --soft`
+
+```
+🎯  Delivery-driven    — No me conformo con "funciona". Funciona, escala y se ve bien.
+🔍  Detail-obsessed   — El padding importa. El z-index importa. Todo importa.
+⚡  Fast learner      — Si no lo sé hoy, lo tengo para mañana.
+🤝  Client-facing     — Capacito, documento y entrego con contexto.
+🌐  Remote-native     — 5 años trabajando en zonas horarias europeas y americanas.
 ```
 
 ---
 
-## 📫 Contáctame
+## `> currently --learning`
+
+- 🤖 **n8n** — Automatización de flujos complejos + integración con React
+- 📦 **Microservicios** — Event-driven architecture, Azure Service Bus
+- 🔐 **Auth patterns** — JWT, OAuth2, refresh token management
+- 📈 **GEO (Generative Engine Optimization)** — SEO para la era de la IA
+
+---
+
+## `> contact --open-to`
 
 <div align="center">
 
-¿Tienes un proyecto en mente? ¡Hablemos!
+```
+✅ Fulltime Remote (EU / US timezones)
+✅ Freelance / Contract
+✅ Shopify Plus development
+✅ React / Next.js applications
+✅ Technical SEO + Web strategy
+✅ Web automation (n8n + APIs)
+```
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-jnkreations.xyz-00D9FF?style=for-the-badge)](https://jnkreations.xyz)
-[![Email](https://img.shields.io/badge/📧_Email-Contáctame-D14836?style=for-the-badge)](#)
+[![Send Email](https://img.shields.io/badge/📧%20jnkreationsdev@gmail.com-Send%20Email-6C63FF?style=for-the-badge)](mailto:jnkreationsdev@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/📱%20%2B57%20310%20222%208102-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573102228102)
 
 </div>
 
@@ -167,10 +224,6 @@ const myExperience: Experience = {
 
 <div align="center">
 
-### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&color=00D9FF&style=for-the-badge)
-
-⭐️ From [Juan Camilo Niño](https://github.com/TU_USUARIO)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=120&section=footer&text=Let%27s%20build%20something%20great.&fontSize=24&fontColor=a0aec0&animation=fadeIn&fontAlignY=65"/>
 
 </div>
